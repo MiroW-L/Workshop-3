@@ -1,6 +1,6 @@
 # Workshop-3
 
-
+https://mirow-l.github.io/Workshop-3/
 
 ## Working with Images (21/1/25)
 - I am feeling really glad that for Workshop 2 I spent so long trying to to make images appear on my work, I hope that'll give me an advantage in this workshop.
@@ -15,4 +15,5 @@
 <img width="1024" alt="Screenshot 2025-01-22 at 3 30 50 PM" src="https://github.com/user-attachments/assets/3ff5e2f7-2c85-4187-9d62-cac0876e813f" />
 
 ## Finishing the issues (25/1/25)
-I emailed Leo about my problem and he said I should upload the image folder so Github can access my images, which makes sense, so I'm doing that now.
+- I emailed Leo about my problem and he said I should upload the image folder so Github can access my images, which makes sense, so I'm doing that now.
+- I uploaded a bunch of files but it ended up working so I'm glad I get to move on from this workshop.
