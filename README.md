@@ -13,3 +13,6 @@
 ## The problem is that p5.js is not working with the image I'm using and that's really frustrating so I'll ask Leo about what I can do. And it's frustrating because I really enjoy working with images but being unable to use them on p5.js is disheartening, pushing me away from using images in my work.
 
 <img width="1024" alt="Screenshot 2025-01-22 at 3 30 50 PM" src="https://github.com/user-attachments/assets/3ff5e2f7-2c85-4187-9d62-cac0876e813f" />
+
+## Finishing the issues (25/1/25)
+I emailed Leo about my problem and he said I should upload the image folder so Github can access my images, which makes sense, so I'm doing that now.
